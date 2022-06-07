@@ -56,7 +56,7 @@ Apenas digite
 	sh revert.sh
 Você deverá ver o seguinte log:
 
-		🚀 running "revert.sh" on PID: 16928 🚀
+	🚀 running "revert.sh" on PID: 16928 🚀
 	[Ter  7 Jun 2022 00:02:09 -03]:✅ reverting clamshell start.sh script ✅
 	Password:
 	[Ter  7 Jun 2022 00:02:18 -03]:✅ done ✅
