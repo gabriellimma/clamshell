@@ -8,5 +8,5 @@ sudo pmset -a sleep 1
 sudo pmset -a hibernatemode $FIRST_MATCH_AT_DEFAULT_HIBERNATE_MODE_FILE
 sudo pmset -a disablesleep 0
 
-echo "[$(date)]\nhibernate mode changed to original values" >> "default-hibernate-mode.txt"
+echo "[$(date)]\nhibernate mode changed to original values:\n$(pmset -g)" >> "default-hibernate-mode.txt"
 echo "[$(date)]:✅ done ✅"
