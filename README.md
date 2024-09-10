@@ -120,3 +120,5 @@ No arquivo default-hibernate-mode.txt deve estar escrito logo abaixo do log feit
 	 displaysleep         2 (display sleep prevented by Discord)
 	 tcpkeepalive         1
 	 lowpowermode         0
+
+  teste
